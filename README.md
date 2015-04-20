@@ -14,8 +14,8 @@ I am technology agnostic software developer. In my role as the co-founder of uni
 
 ## Education
 
-Computer Science, B.S.
-Fall 2013 to Present
+Computer Science, B.S.  
+Fall 2013 to Present  
 [Georgian Technical University](http://gtu.edu.ge/Eng/), Tbilisi, Georgia
 
 
