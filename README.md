@@ -16,14 +16,6 @@ In my role as the co-founder of uniHack, I have organised the biggest college ha
 I am passionate about building high quality applications and user interfaces with modern web technologies. In my free time I enjoy contributing to open source projects, experimenting with physics simulations and audio visualisations, reading, listening to music and biking in cities or countryside.
 
 
-
-## Education
-
-Computer Science, B.S.  
-Fall 2013 to Present  
-[Georgian Technical University](http://gtu.edu.ge/Eng/), Tbilisi, Georgia
-
-
 ## Specialties
 
 Authoring great user experiences with JavaScript, HTML, and CSS. Most recently the Majority of code I have written has been in JavaScript and CSS, but i have experience in PHP, Objective-C, C++, SQL, Java, Haskell
@@ -43,3 +35,10 @@ At first my job was to rewrite [*LEPL - Legislative Herald of Georgia*](https://
 *November 2012 – August 2013* (10 months) Tbilisi, Georgia
 
 Mainly I was Working on MyVideoTV app for [*Android devices*](https://play.google.com/store/apps/details?id=ge.myvideo.hlsstremreader) and custom [*TV Boxes*](http://www.myvideo.ge/tvbox) Using **Java** and **Android SDK**. Besides Android Development I was doing some front-end for responsive WEB sites. I was using **Guard** for automating development workflow, **Sass** and **Compass** for writing **CSS**, also **Bootstrap** and some **jQuery** Libraries.
+
+
+## Education
+
+Computer Science, B.S.  
+Fall 2013 to Present  
+[Georgian Technical University](http://gtu.edu.ge/Eng/), Tbilisi, Georgia
