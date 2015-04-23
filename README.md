@@ -30,7 +30,7 @@ Authoring great user experiences with JavaScript, HTML, and CSS. Most recently t
 
 At first my job was to rewrite [*LEPL - Legislative Herald of Georgia*](https://matsne.gov.ge) from old version of Joomla to **Drupal** 7, after that we needed to create native mobile apps so for them I Created **HTTP API** and worked on **iOS** app with **Objective-C**. Also I was working on TBC Bank's internal projects Front-End, I used **Jade** for rapid Prototyping, **MVCSS** with **stylus** for writing maintainable and scalable **CSS** and **Gulp.js** for development workflow automation
 
-###Co-founder & Co-Orginiser @ [uniHack](http://unihack.io)
+###Co-founder & Co-Organizer @ [uniHack](http://unihack.io)
 *December 2013 – Present* Tbilisi, Republic of Georgia
 
 Organized the first international college hackathon in Georgia with around 500 students from 5 countries. Besides organisational work I was developing web sites of our **hackathons**.
