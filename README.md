@@ -19,7 +19,7 @@ I am passionate about building high quality applications and user interfaces wit
 ## Specialties
 
 Authoring great user experiences with JavaScript, HTML, and CSS. Most recently the Majority of code I have written has been in JavaScript and CSS, but i have experience in PHP, Objective-C, C++, SQL, Java, Haskell
-
+si
 ## Experience
 
 > as a freelancer I have worked on some small mobile apps, internal web applications for  different organisations/companies
@@ -43,7 +43,7 @@ I have used **gl-matrix** for high performance vector math,  browserify and Coff
 ###Software Developer @ [ITDC](http://itdc.ge/)
 *November 2012 – August 2013* (10 months) Tbilisi, Republic of Georgia
 
-Mainly I was Working on MyVideoTV app for [*Android devices*](https://play.google.com/store/apps/details?id=ge.myvideo.hlsstremreader) and custom [*TV Boxes*](http://www.myvideo.ge/tvbox) Using **Java** and **Android SDK**. Besides Android Development I was doing some front-end for responsive WEB sites. I was using **Guard** for automating development workflow, **Sass** and **Compass** for writing **CSS**, also **Bootstrap** and some **jQuery** Libraries.
+Mainly I was Working on MyVideoTV app for [*Android devices*](https://play.google.com/store/apps/details?id=ge.myvideo.hlsstremreader) and custom [*TV Boxes*](http://www.myvideo.ge/tvbox) Using **Java** and **Android SDK**. Besides Android Development I was doing some front-end for responsive web sites. I was using **Guard** for automating development workflow, **Sass** and **Compass** for writing **CSS**, also **Bootstrap** and some **jQuery** Libraries.
 
 
 ## Education
