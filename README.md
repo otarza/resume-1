@@ -25,4 +25,16 @@ Authoring great user experiences with JavaScript, HTML, and CSS. Most recently t
 
 ## Experience
 
-TODO
+> as a freelancer I have worked on some small mobile apps, internal web applications for  different organisations/companies
+
+
+###Software Developer @ [AzRy](http://azry.com/)
+*May 2014 – February 2015* (10 months) Tbilisi, Georgia
+
+At first my job was to rewrite [*LEPL - Legislative Herald of Georgia*](https://matsne.gov.ge) from old version of Joomla to **Drupal** 7, after that we needed to create native mobile apps so for them I Created **HTTP API** and worked on **iOS** app with **Objective-C**. Also I was working on TBC Bank's internal projects Front-End, I used **Jade** for rapid Prototyping, **MVCSS** with **stylus** for writing maintainable and scalable **CSS** and **Gulp.js** for development workflow automation
+
+
+###Software Developer @ [ITDC](http://itdc.ge/)
+*November 2012 – August 2013* (10 months) Tbilisi, Georgia
+
+Mainly I was Working on MyVideoTV app for [*Android devices*](https://play.google.com/store/apps/details?id=ge.myvideo.hlsstremreader) and custom [*TV Boxes*](http://www.myvideo.ge/tvbox) Using **Java** and **Android SDK**. Besides Android Development I was doing some front-end for responsive WEB sites. I was using **Guard** for automating development workflow, **Sass** and **Compass** for writing **CSS**, also **Bootstrap** and some **jQuery** Libraries.
