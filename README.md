@@ -30,6 +30,15 @@ Authoring great user experiences with JavaScript, HTML, and CSS. Most recently t
 
 At first my job was to rewrite [*LEPL - Legislative Herald of Georgia*](https://matsne.gov.ge) from old version of Joomla to **Drupal** 7, after that we needed to create native mobile apps so for them I Created **HTTP API** and worked on **iOS** app with **Objective-C**. Also I was working on TBC Bank's internal projects Front-End, I used **Jade** for rapid Prototyping, **MVCSS** with **stylus** for writing maintainable and scalable **CSS** and **Gulp.js** for development workflow automation
 
+###Co-founder & Co-Orginiser @ [uniHack](http://unihack.io)
+*December 2013 – Present* Tbilisi, Republic of Georgia
+
+Organized the first international college hackathon in Georgia with around 500 students from 5 countries. Besides organisational work I was developing web sites of our **hackathons**.
+I developed simple particles' **physics 2D simulation** as a **Canvas** background of [uniHack.io](http://unihack.io). 
+I have used **gl-matrix** for high performance vector math,  browserify and CoffeeScript for JavaScript, Stylus for CSS. Because of our need to go international I used  **Gulp.js** for building *bilingual* **static sites**. Also I used **THREE.js** for [hackTbilisi.com](http://hacktbilisi.com/).
+> Sources of these sites are available on our [GitHub page](http://github.com/uniHackge),
+
+
 
 ###Software Developer @ [ITDC](http://itdc.ge/)
 *November 2012 – August 2013* (10 months) Tbilisi, Republic of Georgia
