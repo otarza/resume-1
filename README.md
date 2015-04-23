@@ -1,4 +1,4 @@
-Irakli Safareli
+Irakli Saparishvili (Safareli)
 =============
 
 Software Developer
@@ -9,7 +9,7 @@ Software Developer
 
 ## Summary
 
-I am technology agnostic software developer. I started coding when I was 15 and during my career I have gained a lot experience as a Front-End Web developer. However, I also possess substantial experience as an Android, iOS, and Drupal Developer. I am interested in Functional, Dataflow and Reactive Programming. I have worked on projects which serve thousands of users and operate on big data.
+I am technology agnostic software developer. I started coding when I was 15 and during my career I have gained a lot experience as a Front end Web developer. However, I also possess substantial experience as an Android, iOS, and Drupal Developer. I am interested in Functional, Dataflow and Reactive Programming. I have worked on projects which serve thousands of users and operate on big data.
 
 In my role as the co-founder of uniHack, I have organised the biggest college hackathons in the Caucasian region. In addition to this, I'm driving local developer communities and organizing meetups which allows me to bring together a group of people who share the love of creating.
 
@@ -19,31 +19,28 @@ I am passionate about building high quality applications and user interfaces wit
 ## Specialties
 
 Authoring great user experiences with JavaScript, HTML, and CSS. Most recently the Majority of code I have written has been in JavaScript and CSS, but i have experience in PHP, Objective-C, C++, SQL, Java, Haskell
-si
+
 ## Experience
 
-> as a freelancer I have worked on some small mobile apps, internal web applications for  different organisations/companies
+> As a freelancer I have worked on some small mobile apps and internal web applications for different organisations/companies.
 
 
 ###Software Developer @ [AzRy](http://azry.com/)
 *May 2014 – February 2015* (10 months) Tbilisi, Republic of Georgia
 
-At first my job was to rewrite [*LEPL - Legislative Herald of Georgia*](https://matsne.gov.ge) from old version of Joomla to **Drupal** 7, after that we needed to create native mobile apps so for them I Created **HTTP API** and worked on **iOS** app with **Objective-C**. Also I was working on TBC Bank's internal projects Front-End, I used **Jade** for rapid Prototyping, **MVCSS** with **stylus** for writing maintainable and scalable **CSS** and **Gulp.js** for development workflow automation
+At first my job was to rewrite [*LEPL - Legislative Herald of Georgia*](https://matsne.gov.ge) from old version of Joomla to **Drupal** 7, after that we needed to create native mobile apps, so for them I Created **HTTP API** and worked on **iOS** app with **Objective-C**. Also I was working on Front end side of one [TBC Bank's](http://tbcbank.ge) internal project, I used **Jade** for rapid Prototyping, **MVCSS** with **stylus** for writing maintainable and scalable **CSS** and **Gulp.js** for development workflow automation.
 
 ###Co-founder & Co-Organizer @ [uniHack](http://unihack.io)
 *December 2013 – Present* Tbilisi, Republic of Georgia
 
-Organized the first international college hackathon in Georgia with around 500 students from 5 countries. Besides organisational work I was developing web sites of our **hackathons**.
-I developed simple particles' **physics 2D simulation** as a **Canvas** background of [uniHack.io](http://unihack.io). 
-I have used **gl-matrix** for high performance vector math,  browserify and CoffeeScript for JavaScript, Stylus for CSS. Because of our need to go international I used  **Gulp.js** for building *bilingual* **static sites**. Also I used **THREE.js** for [hackTbilisi.com](http://hacktbilisi.com/).
-> Sources of these sites are available on our [GitHub page](http://github.com/uniHackge),
-
+Organized the first international college hackathon in Georgia with around 500 students from 5 countries. Besides organisational work I was developing web sites of our **hackathons**. I developed simple particles' **physics 2D simulation** as a **Canvas** background of [uniHack.io](http://unihack.io). I have used **gl-matrix** for high performance vector math,  **browserify** and **CoffeeScript** for **JavaScript**, **Stylus** for **CSS** and **Jade** for **HTML**. Because of our need to go international I used  **Gulp.js** for building *bilingual* **static sites**. Also I used **THREE.js** for 3D background of [hackTbilisi.com](http://hacktbilisi.com/).
+> Sources of these sites are available on our [GitHub page](http://github.com/uniHackge).
 
 
 ###Software Developer @ [ITDC](http://itdc.ge/)
 *November 2012 – August 2013* (10 months) Tbilisi, Republic of Georgia
 
-Mainly I was Working on MyVideoTV app for [*Android devices*](https://play.google.com/store/apps/details?id=ge.myvideo.hlsstremreader) and custom [*TV Boxes*](http://www.myvideo.ge/tvbox) Using **Java** and **Android SDK**. Besides Android Development I was doing some front-end for responsive web sites. I was using **Guard** for automating development workflow, **Sass** and **Compass** for writing **CSS**, also **Bootstrap** and some **jQuery** Libraries.
+Mainly I was Working on MyVideoTV app for [*Android devices*](https://play.google.com/store/apps/details?id=ge.myvideo.hlsstremreader) and custom [*TV Boxes*](http://www.myvideo.ge/tvbox) Using **Java** and **Android SDK**. Besides Android Development I was doing some Front end for responsive web sites. I was using **Guard** for automating development workflow, **Sass** and **Compass** for writing **CSS**, also **Bootstrap** and some **jQuery** Libraries.
 
 
 ## Education
