@@ -16,10 +16,6 @@ In my role as the co-founder of uniHack, I have organized the biggest college ha
 I am passionate about building high quality applications and user interfaces with modern web technologies. In my free time I enjoy contributing to open source projects, experimenting with physics simulations and audio visualizations, reading, listening to music and biking in cities or countryside.
 
 
-## Specialties
-
-I am authoring great user experiences with JavaScript, HTML, and CSS. Most recently the Majority of code I have written has been in JavaScript and CSS, but i have experience in PHP, SQL, Objective-C, C++, Java, Haskell
-
 ## Experience
 
 *As a freelance developer I have worked on some small mobile apps and internal web applications for different organizations/companies.*
