@@ -5,7 +5,7 @@ Software Developer
 -----------------------
 
 - Email: <i.safareli@gmail.com>
-- safareli @ [Github](http://github.com/safareli) @ [Twitter](http://twitter.com/safareli) @ [LinkedIn](http://linkedin.com/in/safareli)
+- safareli @ [Github](http://github.com/safareli) @ [Twitter](http://twitter.com/safareli) @ [LinkedIn](http://linkedin.com/in/safareli) @ [Gibbon](http://gibbon.co/safareli) @ [SpeakerDeck](http://speakerdeck.com/safareli)
 
 ## Summary
 
