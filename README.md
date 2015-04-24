@@ -25,21 +25,21 @@ I am authoring great user experiences with JavaScript, HTML, and CSS. Most recen
 *As a freelance developer I have worked on some small mobile apps and internal web applications for different organizations/companies.*
 
 
-###Software Developer @ [AzRy](http://azry.com/)
+### Software Developer @ [AzRy](http://azry.com/)
 *May 2014 – February 2015* (10 months) Tbilisi, Republic of Georgia
 
 My first task was to rewrite the [*LEPL - Legislative Herald of Georgia*](https://matsne.gov.ge) website from the old version in Joomla to **Drupal** 7. Upon successful completion, I began work on a native mobile application. In this role, I created **HTTP API** and worked on sections of the **iOS** app using **Objective-C**. Following this, I worked as a front-end developer in one of [TBC Bank's](http://tbcbank.ge) internal projects. I used **Jade** for rapid Prototyping, **MVCSS** with **stylus** for writing maintainable and scalable **CSS** and **Gulp.js** for development workflow automation.
 
 
-###Software Developer @ [ITDC](http://itdc.ge/)
+### Software Developer @ [ITDC](http://itdc.ge/)
 *November 2012 – August 2013* (10 months) Tbilisi, Republic of Georgia
 
 My main focus was working on MyVideoTV application for [*Android devices*](https://play.google.com/store/apps/details?id=ge.myvideo.hlsstremreader) and custom [*TV Boxes*](http://www.myvideo.ge/tvbox) running Android. The majority of code was written in **Java** using the **Android SDK**. I also worked as a front-end developer for responsive web sites. I used **Guard** for automating development workflow, **Sass** and **Compass** for writing **CSS**, **Bootstrap** and **jQuery** Libraries.
 
 
-##Community Involvement
+## Community Involvement
 
-###Co-founder & Co-Organizer @ [uniHack](http://unihack.io)
+### Co-founder & Co-Organizer @ [uniHack](http://unihack.io)
 *December 2013 – Present* Tbilisi, Republic of Georgia
 
 I organized the first international college hackathon in the country of Georgia with around 500 students from 5 countries. Besides organizational work I developed the main web sites for our **hackathons**. I developed simple particles' **physics 2D simulation** as a **Canvas** background of [uniHack.io](http://unihack.io). I have used **gl-matrix** for high performance vector math,  **browserify** and **CoffeeScript** for **JavaScript**, **Stylus** for **CSS** and **Jade** for **HTML**. Because of our need to go international I used  **Gulp.js** for building *bilingual* **static sites**. Also I used **THREE.js** for 3D background of [hackTbilisi.com](http://hacktbilisi.com/).
