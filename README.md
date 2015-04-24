@@ -22,7 +22,7 @@ I am authoring great user experiences with JavaScript, HTML, and CSS. Most recen
 
 ## Experience
 
-> As a freelance developer I have worked on some small mobile apps and internal web applications for different organizations/companies.
+*As a freelance developer I have worked on some small mobile apps and internal web applications for different organizations/companies.*
 
 
 ###Software Developer @ [AzRy](http://azry.com/)
@@ -43,8 +43,8 @@ My main focus was working on MyVideoTV application for [*Android devices*](https
 *December 2013 – Present* Tbilisi, Republic of Georgia
 
 I organized the first international college hackathon in the country of Georgia with around 500 students from 5 countries. Besides organizational work I developed the main web sites for our **hackathons**. I developed simple particles' **physics 2D simulation** as a **Canvas** background of [uniHack.io](http://unihack.io). I have used **gl-matrix** for high performance vector math,  **browserify** and **CoffeeScript** for **JavaScript**, **Stylus** for **CSS** and **Jade** for **HTML**. Because of our need to go international I used  **Gulp.js** for building *bilingual* **static sites**. Also I used **THREE.js** for 3D background of [hackTbilisi.com](http://hacktbilisi.com/).
-> Sources of these sites are available on our [GitHub page](http://github.com/uniHackge).
 
+*Sources of these sites are available on our [GitHub page](http://github.com/uniHackge).*
 
 
 ## Education
