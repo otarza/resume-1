@@ -48,3 +48,12 @@ I organized the first international college hackathon in the country of Georgia 
 Computer Science, B.S.  
 Fall 2013 to Present  
 [Georgian Technical University](http://gtu.edu.ge/Eng/), Tbilisi, Georgia
+
+
+
+-----------------------
+
+*Notes*:
+
+- The most current version of this resume is available at [github.com/safareli/resume](https://github.com/safareli/resume)
+- I'm using [markdowntopdf.com](http://www.markdowntopdf.com/) to generate pdf from markdown
