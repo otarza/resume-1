@@ -1,0 +1,17 @@
+language: node_js
+dist: trusty
+sudo: required
+node_js: stable
+install:
+  - echo "install"
+script:
+  - echo "script"
+
+# https://docs.travis-ci.com/user/deployment/pages/
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: false
+  on:
+    branch: gh-pages
