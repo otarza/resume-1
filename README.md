@@ -1,1 +1,1 @@
-> View [PDF](Irakli%20saparishvili%20resume.pdf)
+> View [PDF](https://safareli.github.io/resume/)
